@@ -1,5 +1,6 @@
-# ![Azure AI Engineer Associate](C:/Users/aliar/OneDrive/Documents/GitHub/Microsoft-AI-Certifications/images/azure-ai-engineer-associate.jpg)  
-# ![Azure AI Fundamentals](C:/Users/aliar/OneDrive/Documents/GitHub/Microsoft-AI-Certifications/images/azure-ai-fundamentals.jpg)  
+![Azure AI Engineer Associate](images/azure-ai-engineer-associate.jpg)  
+![Azure AI Fundamentals](images/azure-ai-fundamentals.jpg)  
+
 # Microsoft Azure AI Learning Path 🚀
 
 A comprehensive collection of courses and learning paths for Microsoft Azure AI certifications from Microsoft Learn.
