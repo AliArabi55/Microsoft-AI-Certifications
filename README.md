@@ -1,5 +1,5 @@
-![Azure AI Engineer Associate](images/azure-ai-engineer-associate.jpg)  
-![Azure AI Fundamentals](images/azure-ai-fundamentals.jpg)  
+![Azure AI Engineer Associate](Azure%20AI%20Engineer%20Associate.jpg)  
+![Azure AI Fundamentals](Azure%20AI%20Fundamentals.jpg)  
 
 # Microsoft Azure AI Learning Path 🚀
 
