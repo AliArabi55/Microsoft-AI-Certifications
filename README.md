@@ -13,6 +13,7 @@ A comprehensive collection of courses and learning paths for Microsoft Azure AI 
 2. **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
 
 ***
+![Azure AI Engineer Associate](Azure%20AI%20Engineer%20Associate.jpg)  
 
 ## 🎯 Microsoft Certified: Azure AI Fundamentals (AI-900)
 
